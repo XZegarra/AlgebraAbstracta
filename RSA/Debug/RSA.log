@@ -1,0 +1,37 @@
+﻿  codigoRSA.cpp
+C:\Universidad\Encriptados\RSA\codigoRSA.h(28,15): warning C4244:  'argumento': conversión de '__int64' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(30,15): warning C4244:  'argumento': conversión de '__int64' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(36,15): warning C4244:  'argumento': conversión de '__int64' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(37,48): warning C4244:  'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(111,43): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(111,37): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(113,15): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(114,27): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(114,22): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(116,22): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.h(116,17): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(15,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(16,54): warning C4244:  'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(17,54): warning C4244:  'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,12): warning C4244:  'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,22): warning C4244:  '=': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,22): warning C4244:         with
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,22): warning C4244:         [
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,22): warning C4244:             _Ty=__int64
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(18,22): warning C4244:         ]
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,12): warning C4244:  'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,22): warning C4244:  '=': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,22): warning C4244:         with
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,22): warning C4244:         [
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,22): warning C4244:             _Ty=__int64
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(19,22): warning C4244:         ]
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(25,19): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(25,16): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(29,49): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(29,46): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(30,38): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(30,27): warning C4244:  'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(41,18): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(48,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\codigoRSA.cpp(49,35): warning C4244:  'argumento': conversión de 'unsigned __int64' a 'const unsigned int'; posible pérdida de datos
+  RSA.vcxproj -> C:\Universidad\Encriptados\RSA\Debug\RSA.exe
